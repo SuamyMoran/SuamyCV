@@ -1,3 +1,50 @@
 <resources>
-    <string name="app_name">SuamyCV</string>
+
+    <string name="app_name">Curriculum Vitae </string>
+    <string name="nombre">Suamy Moran Gallegos</string>
+    <string name="title_activity_experiencia">Experiencia</string>
+    <string name="info2"><b>Fijo: </b>042128064\n\<b>Móvil: </b>0981218931\n\<b>Correo: \n\</b>suamyd.morang@hotmail.com</string>
+    <string name="info1"><b>Edad: </b>21 Años\n\<b>Ciudadanía: </b>Ecuatoriano\n\<b>Estado Cicil: </b>Soltera\n\<b>Dirección: </b>Cdla. El Cóndor Mz. E Villa 6\n\<b>Teléfono: </b>0928967496</string>
+
+
+    <string name="universidad">Licenciatura en Sistemas de Información (Cursando 5to Semestre)</string>
+    <string name="universidad_detalle">Universidad Estatal de Guayaquil</string>
+
+
+    <string name="colegio">Bachiller en Ciencias</string>
+    <string name="colegio_detalle">Colegio Fiscal  Mixto “Quince de Octubre”\n\<b>Especialización: </b> Química Biológicas</string>
+
+
+    <string name="escuela">Estudios Primarios</string>
+    <string name="escuela_detalle">Escuela Fiscal Mixta “Cucalón Lasso”</string>
+
+
+    <string name="referencia1">Luis Alberto Jijón García</string>
+    <string name="referencia1_detalle">Propietario Farmacias “Jesús de Praga”\n\<b>Móvil: </b> 0997153225\n\<b>Teléfono: </b> ( 04)2751065</string>
+
+
+    <string name="referencia2">Dr. Sonny Gutiérrez</string>
+    <string name="referencia2_detalle">Propietario Laboratorio “Siglo XXI”\n\<b>Teléfono: </b>0981935387</string>
+
+
+    <string name="referencia3">Alex Bastidas “Planificador de Eventos”</string>
+    <string name="referencia3_detalle"><b>Teléfono: </b> 0994557045</string>
+
+
+    <string name="experiencia1">2014      Laboratorio “Siglo XXI”</string>
+    <string name="experiencia1_detalle"><b>Cargo: </b>Secretaria.\n\<b>Función: </b>Preparar los reportes de resultados de los servicios del laboratorio.</string>
+
+
+    <string name="experiencia2">2014 2015 Farmacias “Jesús de Praga”</string>
+    <string name="experiencia2_detalle"><b>Cargo: </b>Asistente de Farmacia.\n\<b>Función: </b>Atender y despachar medicamentos al público en general, de acuerdo al récipe médico.</string>
+
+
+    <string name="experiencia3">2015     	Mussa “Planificador de eventos”</string>
+    <string name="experiencia3_detalle"><b>Función: </b>Caracterización Artística
+</string>
+    <string name="objetivo"><b>Objetivo:</b>\n\ \n\Formar parte de una empresa en donde se valore el desempeño de cada empleado, y que me ofrezca la oportunidad de superar cada mmeta para poder crecer en el ámbito personal y profesional</string>
+
+
+
+
 </resources>
